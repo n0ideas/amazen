@@ -1,4 +1,6 @@
 .idea/
+.DotSettings.user
+*.DotSettings.user
 .dotnet-home/
 .DS_Store
 node_modules/
