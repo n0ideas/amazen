@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Amazen.Api/Amazen.Api.csproj" />
+  </Folder>
+</Solution>

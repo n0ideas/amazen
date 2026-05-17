@@ -1,0 +1,6 @@
+@Amazen.Api_HostAddress = http://localhost:0
+
+GET {{Amazen.Api_HostAddress}}/test-data
+Accept: application/json
+
+###
